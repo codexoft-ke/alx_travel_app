@@ -37,7 +37,7 @@ The ALX Travel App is a RESTful API built with Django and Django REST Framework 
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/codexoft-ke/alx_travel_app
 cd alx_travel_app
 ```
 
